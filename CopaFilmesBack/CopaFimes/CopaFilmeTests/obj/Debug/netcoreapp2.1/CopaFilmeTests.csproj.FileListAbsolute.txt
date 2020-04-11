@@ -1,0 +1,17 @@
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\CopaFilmeTests.deps.json
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\CopaFilmeTests.runtimeconfig.json
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\CopaFilmeTests.runtimeconfig.dev.json
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\CopaFilmeTests.dll
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\CopaFilmeTests.pdb
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\CopaFimes.dll
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\bin\Debug\netcoreapp2.1\CopaFimes.pdb
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\obj\Debug\netcoreapp2.1\CopaFilmeTests.csprojAssemblyReference.cache
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\obj\Debug\netcoreapp2.1\CopaFilmeTests.csproj.CoreCompileInputs.cache
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\obj\Debug\netcoreapp2.1\CopaFilmeTests.AssemblyInfoInputs.cache
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\obj\Debug\netcoreapp2.1\CopaFilmeTests.AssemblyInfo.cs
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\obj\Debug\netcoreapp2.1\CopaFilmeTests.csproj.CopyComplete
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\obj\Debug\netcoreapp2.1\CopaFilmeTests.dll
+C:\Users\rodrigolima\Documents\Alura\CopaFilmes\CopaFilmesBack\CopaFimes\CopaFilmeTests\obj\Debug\netcoreapp2.1\CopaFilmeTests.pdb
